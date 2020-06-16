@@ -1,4 +1,4 @@
-# Machine Learning Workshop
+# Materials of Machine Learning Workshop 
 Tools: Microsoft Azure Notebook and Jupyter Notebook
 
 
